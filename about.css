@@ -31,3 +31,20 @@ a:link{
 a:hover{
 	color: hotpink;
 }
+
+.mypic, .myblurb{
+	margin: 10px;
+	float: left;
+}
+
+.mypic{
+	border: solid;
+	border-width: 1px;
+	width: 400px;
+	height: 300px;
+}
+
+.myblurb{
+	width: 600px;
+	height: 400px;
+}
