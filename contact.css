@@ -30,3 +30,9 @@ a:link{
 }
 a:hover{
 	color: hotpink;
+}
+
+#contactme{
+	font-family: "serif";
+	font-color: hotpink;
+}
