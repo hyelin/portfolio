@@ -1,0 +1,45 @@
+#myname{
+	font-size: 80px;
+	font-family: "arial";
+	text-align: center;
+}
+
+ul.nav{
+	list-style: none;
+	padding: 0;
+}
+
+ul.nav li{
+	display: inline;
+	text-transform: uppercase;
+	word-spacing: 150px;
+	font-family: "ubuntu";
+	color: black;
+}
+
+
+.navbar{
+	text-align: center;
+	border-style: solid none;
+	border-width: 2px;
+	padding: 0px;
+}
+
+a:link{
+	color: black;
+}
+a:hover{
+	color: hotpink;
+}
+
+.hw1, .hw2, .hw3{
+	width: 200px;
+	height: 200px;
+	border: solid;
+	border-width: 1px;
+	float: left;
+	margin: 20px;
+	text-align: center;
+
+
+}
